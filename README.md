@@ -2,7 +2,7 @@
 This project Live-Link [Here](https://space-df0b3.web.app/).
 ### localhost run 
     1. install all package. ( npm i)
-    2. npm start
+    2. run project (npm start)
 
 necessary install/create project steps:
 
