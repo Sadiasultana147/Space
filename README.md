@@ -11,9 +11,9 @@ necessary install/create project steps:
 ### install react-router-dom (npm i react-router-dom@5.3.0 )
 
 necessary deploy steps:
-
+### deploy in firebase
 ### install firebase ( npm install -g firebase-tools)
-### init firebase (irebase init)
+### init firebase (firebase init)
 ### npm run build
 ### deploy ( firebase deploy)
 
