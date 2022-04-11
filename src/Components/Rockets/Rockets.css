@@ -1,0 +1,48 @@
+.singleCardRocket{
+    box-shadow: 1px 1px 1px 2px;
+    background: #231E44;
+   
+   
+   
+
+}
+.allcard{
+    margin-left: 20px;
+
+}
+
+.singleCardfilter{
+    box-shadow: 1px 1px 1px 2px;
+    background: #231E44;
+    width: 82%;
+    margin-left: 130px;
+}
+.rocketsContainer{
+    margin-left: 150px;
+}
+.rocketContainer{
+    margin-left: 140px;
+}
+.search-border{
+    border: 2px solid #454466;
+    background-color:#18163B;
+}
+.blogs-pagination {
+    display: flex;
+    justify-content: center;
+    margin: 25px 0;
+  }
+  .pagination-buttons button {
+   
+    margin-left: 5px;
+    height: 30px;
+    width: 30px;
+   color: #454466;
+    cursor: pointer;
+    background: none;
+    border: none;
+  }
+  .active-page-btn {
+   color: white !important;
+    
+}

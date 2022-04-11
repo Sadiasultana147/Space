@@ -1,0 +1,42 @@
+
+.navContainer{
+  margin-left: 250px;
+ 
+}
+.navbutton{
+    margin-left:47px;
+    height: 22px;
+    top: 49px;
+}
+.navbrand{
+    height: 24px;
+    width: 66px;
+    top: 49px;
+  }
+.navImage{
+    height: 45px;
+    width: 51px;
+    left: 297px;
+    top: 36px;
+    border-radius: 0px;
+  }
+.active-nav-btn {
+    background-color: blueviolet !important;
+  }
+.contact{
+    border: 3px solid transparent;
+    border-image: linear-gradient(95.48deg, #2317FA -1.25%, #D529E4 97.48%);
+    border-image-slice: 1;
+    height: 50px;
+    width: 150px;
+}
+.active .navtext:hover:after {
+    width: 100%;
+    background: #8C21ED;
+  }
+  
+  .active .navtext {
+    color: #8C21ED;
+    
+  }
+  

@@ -1,0 +1,67 @@
+
+.text2{
+   
+    width: 500px;
+    /* position: relative; */
+   
+    
+}
+.text3{
+  
+    width: 287px;
+    margin-left:150px;
+   
+    /* position:relative; */
+    text-align: justify;
+    
+
+}
+
+.text1{
+    background: -webkit-linear-gradient(95.79deg, #2317FA -33.63%, #D529E4 97.49%
+    );
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    height: 33px;
+    width: 187px;
+    left: 400px;
+    top: 238px;
+
+
+}
+.welcome{
+    background: #090909;
+  
+    width:250px;
+    opacity:0.4;
+}
+.getStart{
+    background: linear-gradient(95.48deg, #2317FA -1.25%, #D529E4 97.48%);
+    width: 150px;
+    padding: 12px;
+    margin-left:150px;
+}
+.spacemanAttached{
+    margin-top: 200px;
+    
+   
+}
+.back{
+    position: absolute;
+    top: 60px;
+    right: 2px;
+    width: 600px;
+}
+.image3{
+    margin-top: 150px;
+    margin-left: 130px;
+}
+.image1{
+    margin-bottom: 1%;
+}
+.asset{
+    width:600px;
+    margin-left: 80px;
+}
+
+

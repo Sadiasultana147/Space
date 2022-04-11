@@ -1,0 +1,15 @@
+.footer{
+    background-color: #18163B;
+}
+.submitborder{
+    border: 3px solid transparent;
+    border-image: linear-gradient(95.48deg, #2317FA -1.25%, #D529E4 97.48%);
+    border-image-slice: 1;
+    width: 100px;
+    background-color:#18163B;
+}
+.subscribe-border{
+    border: 2px solid #454466;
+    width: 300px;
+    background-color:#18163B;
+}
